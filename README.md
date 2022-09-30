@@ -1,7 +1,6 @@
 ### Hi, I am Xuecheng Wu (武雪程) 👋
 
-<!--
-**XuecWu/XuecWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A full deep learning developer from China.
 
 Here are some ideas to get you started:
 
