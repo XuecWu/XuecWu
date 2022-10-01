@@ -1,6 +1,6 @@
 ### Hi, I am Xuecheng Wu (武雪程) 👋
 
-### A full deep learning developer from China.
+### A elementary deep learning developer from China.
 
 - 🔭 I’m currently studying at the School of Cyber Science and Engineering, Zhengzhou University.
 - 🌱 I’m also a prepared master student at the School of Computer Science and Technology, Xi'an Jiaotong University. 
