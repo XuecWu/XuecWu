@@ -2,7 +2,7 @@
 
 ### A full deep learning developer from China.
 
-- 🔭 I’m currently learning at School of Cyber Science and Engineering, Zhengzhou University.
+- 🔭 I’m currently studying at School of Cyber Science and Engineering, Zhengzhou University.
 - 🌱 I’m also a prepared master student at Xi'an Jiaotong University majored in computer science.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
