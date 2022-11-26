@@ -2,7 +2,7 @@
 
 ### A junior deep learning developer from China.
 
-- 🔭 I’m currently studying at the School of Cyber Science and Engineering, Zhengzhou University. Further, I’m the undergraduate research assistant of the Computational Learning Lab, Zhongyuan Research Insititue of Cyber Security, Zhengzhou University.
+- 🔭 I’m currently studying at the School of Cyber Science and Engineering, Zhengzhou University. Further, I’m the undergraduate research assistant of the Computational Learning Lab, Zhongyuan Research Institute of Cyber Security, Zhengzhou University.
 - 🌱 I’m also a prepared master student at the School of Computer Science and Technology, Xi'an Jiaotong University. 
 - 😄 My research interests mainly include deep learning, computer vision, and multimedia computing.
 - 📫 How to reach me: wuxc@stu.zzu.edu.cn / xuecwu@gmail.com
