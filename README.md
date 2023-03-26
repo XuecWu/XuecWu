@@ -7,4 +7,4 @@
 - 🛠  My research interests mainly include deep learning, computer vision, and multimedia computing.
 - ⭐️ My specific tasks mainly include Multimodal Emotion Recognition via audio-visual joint learning, Micro-Expression Recognition, and Object Detection.
 - 🤝🏻 How to reach me: wuxc@stu.zzu.edu.cn / xuecwu@gmail.com
-
+- 🧠 [My CSDN Blog](https://blog.csdn.net/m0_47623548?type=blog)
